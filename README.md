@@ -1,2 +1,2 @@
 # RetiDiCalcolatoriT
-Esercitazioni svolte in un team di 4 persone 
+Esercitazioni del laboratorio di Reti di Calcolatori T svolte da un team di 4 persone
