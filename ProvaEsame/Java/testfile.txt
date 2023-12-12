@@ -1,0 +1,11 @@
+ciao 
+io
+sono
+uno
+studente
+e 
+testo
+il
+funzionamento
+del
+codice
